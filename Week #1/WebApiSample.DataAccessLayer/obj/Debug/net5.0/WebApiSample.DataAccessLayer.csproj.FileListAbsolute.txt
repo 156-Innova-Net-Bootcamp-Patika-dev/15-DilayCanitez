@@ -1,0 +1,12 @@
+D:\Patika.Dev\Innova.NetBootcamp\Week1\Homework#1\WebApiSample\WebApiSample\WebApiSample.DataAccessLayer\bin\Debug\net5.0\WebApiSample.DataAccessLayer.deps.json
+D:\Patika.Dev\Innova.NetBootcamp\Week1\Homework#1\WebApiSample\WebApiSample\WebApiSample.DataAccessLayer\bin\Debug\net5.0\WebApiSample.DataAccessLayer.dll
+D:\Patika.Dev\Innova.NetBootcamp\Week1\Homework#1\WebApiSample\WebApiSample\WebApiSample.DataAccessLayer\bin\Debug\net5.0\ref\WebApiSample.DataAccessLayer.dll
+D:\Patika.Dev\Innova.NetBootcamp\Week1\Homework#1\WebApiSample\WebApiSample\WebApiSample.DataAccessLayer\bin\Debug\net5.0\WebApiSample.DataAccessLayer.pdb
+D:\Patika.Dev\Innova.NetBootcamp\Week1\Homework#1\WebApiSample\WebApiSample\WebApiSample.DataAccessLayer\obj\Debug\net5.0\WebApiSample.DataAccessLayer.csproj.AssemblyReference.cache
+D:\Patika.Dev\Innova.NetBootcamp\Week1\Homework#1\WebApiSample\WebApiSample\WebApiSample.DataAccessLayer\obj\Debug\net5.0\WebApiSample.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika.Dev\Innova.NetBootcamp\Week1\Homework#1\WebApiSample\WebApiSample\WebApiSample.DataAccessLayer\obj\Debug\net5.0\WebApiSample.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Patika.Dev\Innova.NetBootcamp\Week1\Homework#1\WebApiSample\WebApiSample\WebApiSample.DataAccessLayer\obj\Debug\net5.0\WebApiSample.DataAccessLayer.AssemblyInfo.cs
+D:\Patika.Dev\Innova.NetBootcamp\Week1\Homework#1\WebApiSample\WebApiSample\WebApiSample.DataAccessLayer\obj\Debug\net5.0\WebApiSample.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Patika.Dev\Innova.NetBootcamp\Week1\Homework#1\WebApiSample\WebApiSample\WebApiSample.DataAccessLayer\obj\Debug\net5.0\WebApiSample.DataAccessLayer.dll
+D:\Patika.Dev\Innova.NetBootcamp\Week1\Homework#1\WebApiSample\WebApiSample\WebApiSample.DataAccessLayer\obj\Debug\net5.0\ref\WebApiSample.DataAccessLayer.dll
+D:\Patika.Dev\Innova.NetBootcamp\Week1\Homework#1\WebApiSample\WebApiSample\WebApiSample.DataAccessLayer\obj\Debug\net5.0\WebApiSample.DataAccessLayer.pdb
