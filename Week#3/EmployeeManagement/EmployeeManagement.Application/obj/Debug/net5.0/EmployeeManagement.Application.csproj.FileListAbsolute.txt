@@ -1,0 +1,15 @@
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net5.0\EmployeeManagement.Application.deps.json
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net5.0\EmployeeManagement.Application.dll
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net5.0\ref\EmployeeManagement.Application.dll
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net5.0\EmployeeManagement.Application.pdb
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net5.0\EmployeeManagement.Domain.dll
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Application\bin\Debug\net5.0\EmployeeManagement.Domain.pdb
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\EmployeeManagement.Application.csproj.AssemblyReference.cache
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\EmployeeManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\EmployeeManagement.Application.AssemblyInfoInputs.cache
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\EmployeeManagement.Application.AssemblyInfo.cs
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\EmployeeManagement.Application.csproj.CoreCompileInputs.cache
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\EmployeeManagement.Application.csproj.CopyComplete
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\EmployeeManagement.Application.dll
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\ref\EmployeeManagement.Application.dll
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Application\obj\Debug\net5.0\EmployeeManagement.Application.pdb

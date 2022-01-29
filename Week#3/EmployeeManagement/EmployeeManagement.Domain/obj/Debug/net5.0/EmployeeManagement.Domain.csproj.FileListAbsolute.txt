@@ -1,0 +1,12 @@
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net5.0\EmployeeManagement.Domain.deps.json
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net5.0\EmployeeManagement.Domain.dll
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net5.0\ref\EmployeeManagement.Domain.dll
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Domain\bin\Debug\net5.0\EmployeeManagement.Domain.pdb
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net5.0\EmployeeManagement.Domain.csproj.AssemblyReference.cache
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net5.0\EmployeeManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net5.0\EmployeeManagement.Domain.AssemblyInfoInputs.cache
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net5.0\EmployeeManagement.Domain.AssemblyInfo.cs
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net5.0\EmployeeManagement.Domain.csproj.CoreCompileInputs.cache
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net5.0\EmployeeManagement.Domain.dll
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net5.0\ref\EmployeeManagement.Domain.dll
+D:\ProjectsForGitHub\API\EmployeeManagement\EmployeeManagement.Domain\obj\Debug\net5.0\EmployeeManagement.Domain.pdb
